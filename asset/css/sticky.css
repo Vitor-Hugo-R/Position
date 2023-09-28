@@ -1,0 +1,25 @@
+main{
+    height: 3000px;
+    width: 100%;
+    }
+    #principal, #second-div{
+        height: 950px;
+        background-color: aqua;
+    }
+    #image{
+        background: url(../img/download.png) no-repeat;
+        width: 650px;
+        height: 250px;
+        position: sticky;
+        left: 50px;
+        top: 50px;    
+    }
+    #img{
+        background: url(../img/downlo.png) no-repeat;
+        box-shadow: 10px 10px 10px #666;
+        width: 225px;
+        height: 225px;
+        position: sticky;
+        left: 50px;
+        top: 0px;
+    }
